@@ -1,0 +1,19 @@
+{
+  "name": "calcularplr",
+  "version": "1.0.0",
+  "description": "Calcula o bônus de PLR de acordo com a senioridade do funcionário",
+  "main": "source/calcularPlr.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Taís Dias",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "mocha": "^12.0.3"
+  }
+}
